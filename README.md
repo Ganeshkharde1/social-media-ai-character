@@ -1,5 +1,7 @@
+<img src="https://github.com/Ganeshkharde1/social-media-ai-character/blob/main/img.png" width="30%" alt="Image">
 
-# AI Character Agent for posting ![img](https://github.com/Ganeshkharde1/social-media-ai-character/img.png)
+# AI Character Agent for Social media posting 
+
 social media contert
 This README file provides instructions on how to clone, install dependencies, and run this Streamlit application locally.
 
