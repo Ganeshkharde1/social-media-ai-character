@@ -3,7 +3,7 @@ import os
 from groq import Groq
 
 # Initialize Groq API Client
-client = Groq(api_key="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")  # Replace with your API key
+client = Groq(api_key="Groq_API_KEY")  # Replace with your API key
 
 # Fixed AI Character Profile
 character_profile = {
